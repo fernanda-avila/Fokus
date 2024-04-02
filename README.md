@@ -5,11 +5,13 @@ Para construir o **Projeto Fokus**, utilizamos vários métodos que o JavaScrip
 
 O projeto ficou assim:
 
-!https://cdn1.gnarususercontent.com.br/1/1310273/1bff900b-dac8-4908-b9c0-c35589004ffa.png
+![image](https://github.com/fernanda-avila/Fokus/assets/153337144/9e1ebe90-617d-4e11-87c0-869ed46abce0)
+
 
 Quando clicamos em "**Descanso curto**", por exemplo, os elementos da tela são alterados:
 
-!https://cdn1.gnarususercontent.com.br/1/1310273/8eb07474-f1f0-4940-b3df-a733a8ed0b05.png
+![image](https://github.com/fernanda-avila/Fokus/assets/153337144/dbf69359-9798-44e0-824b-5bdef6ae5a50)
+
 
 Para fazer isso, foi utilizado:
 
